@@ -4,11 +4,7 @@ DataCite is a leading global non-profit organisation that provides persistent id
 
 ### About this repository
 
-[![Waffle.io - Columns and their card count](https://badge.waffle.io/datacite/datacite.svg?columns=all)](https://waffle.io/datacite/datacite)
-
-This is the DataCite repository for user stories, new features, enhancements, and other issues. DataCite users can add their ideas through [GitHub Issues](https://github.com/datacite/datacite/issues/new) or on our [Waffle.io board](https://waffle.io/datacite/datacite).
-
-Our Issues are grouped into [GitHib Milestones](https://github.com/datacite/datacite/milestones), and these Milestones provide an overview of our plans for the rest of the year.
+This is the DataCite repository for user stories, new features, enhancements, and other issues. DataCite users can add their ideas through [GitHub Issues](https://github.com/datacite/datacite/issues/new)
 
 ### Learn more
 
