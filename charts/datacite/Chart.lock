@@ -1,0 +1,9 @@
+dependencies:
+- name: traefik
+  repository: https://helm.traefik.io/traefik
+  version: 9.10.1
+- name: kubernetes-dashboard
+  repository: https://kubernetes.github.io/dashboard/
+  version: 2.8.2
+digest: sha256:d4729c2a5eab1d9b4ed23eaa4891a2d28ca7cbee654c9b7844437e9a99106f16
+generated: "2020-11-09T00:46:42.445344+01:00"
