@@ -1,31 +1,58 @@
-### Expected Behaviour
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: bug
+assignees: ''
+
+---
+
+<!--- Provide a general summary of the issue in the Title above -->
+
+### Describe the bug
+<!--- A clear and concise description of what the problem is. -->
+
+#### Expected Behaviour
 <!--- Tell us what should happen -->
 
-### Current Behaviour
+#### Current Behaviour
 <!--- Tell us what happens instead of the expected behaviour -->
 
-### Steps to Reproduce
+#### Steps to Reproduce
 <!--- Provide a link to a live example, or an unambiguous set of steps to -->
 <!--- reproduce this bug. Include code to reproduce, if relevant -->
 
-1. dfdf
-2. fdfd
-3. dfdf
-4. dfdfd
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
 ### Context (Environment)
 <!--- How has this issue affected you? What are you trying to accomplish? -->
 <!--- Providing context helps us come up with a solution that is most useful in the real world -->
 
-<!--- Provide a general summary of the issue in the Title above -->
+#### Screenshots
+<!--- If applicable, add screenshots to help explain your problem. -->
 
+#### Further details
+<!--- If known please add additional information for OS/Device --->
 
-### Hypothesis
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
+
+### Proposal
+
+#### Hypothesis
 <!--- Not obligatory, but suggest a fix/reason for the bug, -->
-
-
-### Detailed Description
 <!--- Provide a detailed description of the change or addition you are proposing -->
 
-### Possible Implementation
+#### Possible Implementation
 <!--- Not obligatory, but suggest an idea for implementing addition or change -->
