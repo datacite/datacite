@@ -1,0 +1,13 @@
+name: Definition of Done Checklist Checker
+
+on:
+  issues:
+    types: [definition_of_done]
+jobs:
+  checkIssue:
+    name: Check Issue for Incomplete Checklist
+    runs-on: ubuntu-latest
+    steps:
+      - uses: adamzolyak/checklist-checker-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
