@@ -1,8 +1,7 @@
 name: Definition of Done Checklist Checker
 
-on:
-  issues:
-    types: [definition_of_done]
+on: issues
+
 jobs:
   checkIssue:
     name: Check Issue for Incomplete Checklist
