@@ -7,6 +7,7 @@ jobs:
   set-assignees:
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@v3
     - uses: kyanagimoto/assignee4label@main
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
