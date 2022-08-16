@@ -1,0 +1,20 @@
+name: GitHub Action for ProductBoard
+
+on:
+  issues:
+    types: [labeled, unlabeled, reopened]
+    
+jobs:
+  productboard:
+    if: github.event.label.name == 'outreach'
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - uses: dessant/support-requests@v2
+      with:
+        github-token: ${{ secrets.ISSUES_TOKEN }}
+        support-label: 'outreach'
+        issue-comment: >
+          :wave: @{issue-assignees} feel free to add this to your ToDo https://app.asana.com/0/1202512172569216/board.
+        close-issue: false
+        
