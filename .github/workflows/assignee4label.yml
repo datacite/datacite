@@ -5,7 +5,7 @@ on:
 
 jobs:
   set-assignees:
-    if: contains( ["outreach, "adoption", "metadata_schema"], github.event.label.name) 
+    if: contains( fromJSON('["outreach, "adoption", "metadata_schema"]'), github.event.label.name) 
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
