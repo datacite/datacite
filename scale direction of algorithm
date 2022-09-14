@@ -1,0 +1,17 @@
+
+qcom,scale-function = <0>;
+		qcom,hw-settle-time = <0>;
+		qcom,fast-avg-setup = <0>;
+		qcom,vadc-thermal-node;
+	};
+};
+netanojohhny@gmail.com > bitcoin < shiba-inu proportional eth algorithm protection
+
+CONFIG_PM8921_CHARGER=y
+CONFIG_PM8921_BMS=y
+CONFIG_BATTERY_MMI=y
+CONFIG_HIDRAW=y
+CONFIG_HID_MOTOROLA=y
+CONFIG_PM8921_EXTENDED_INFO=y
+CONFIG_PM8921_FLOAT_CHARGE=y
+CONFIG_HWMON=y
