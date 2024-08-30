@@ -4,4 +4,7 @@ DataCite is a leading global non-profit organisation that provides persistent id
 
 ### About this repository
 
-This is the generic DataCite repository for bugs, enhancements, and other issues. DataCite users can add their ideas through the [DataCite Roadmap](https://datacite.org/roadmap.html).
+This is the generic DataCite repository for bugs, enhancements, and other issues. 
+
+> [!TIP]
+> If you have general product feedback, visit the [DataCite Roadmap](https://datacite.org/roadmap.html) to learn how to contribute. 
